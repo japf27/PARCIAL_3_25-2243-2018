@@ -1,0 +1,12 @@
+C:\Users\Lab3\Desktop\Parcial3\Parcial3\bin\Debug\Parcial3.exe.config
+C:\Users\Lab3\Desktop\Parcial3\Parcial3\bin\Debug\Parcial3.exe
+C:\Users\Lab3\Desktop\Parcial3\Parcial3\bin\Debug\Parcial3.pdb
+C:\Users\Lab3\Desktop\Parcial3\Parcial3\obj\Debug\Parcial3.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Parcial3\Parcial3\obj\Debug\Parcial3.Form1.resources
+C:\Users\Lab3\Desktop\Parcial3\Parcial3\obj\Debug\Parcial3.MDIParent1.resources
+C:\Users\Lab3\Desktop\Parcial3\Parcial3\obj\Debug\Parcial3.Properties.Resources.resources
+C:\Users\Lab3\Desktop\Parcial3\Parcial3\obj\Debug\Parcial3.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\Parcial3\Parcial3\obj\Debug\Parcial3.exe
+C:\Users\Lab3\Desktop\Parcial3\Parcial3\obj\Debug\Parcial3.pdb
+C:\Users\Lab3\Desktop\Parcial3\Parcial3\obj\Debug\Parcial3.Ventana1.resources
+C:\Users\Lab3\Desktop\Parcial3\Parcial3\obj\Debug\Parcial3.Ventana2.resources
